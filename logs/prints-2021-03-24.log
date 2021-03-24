@@ -1,0 +1,6 @@
+14:11:01.298 [main] INFO  HM.Clothes.HomePageTest - SoftAssert method was executed
+14:11:01.301 [main] INFO  HM.Clothes.HomePageTest - HardAssert method was started
+14:11:01.312 [main] INFO  HM.Clothes.HomePageTest - HardAssert method passed
+14:11:01.983 [main] INFO  HM.Clothes.HomePageTest - Invalid username invalid password error message is: 
+14:11:02.189 [main] INFO  HM.Clothes.HomePageTest - Invalid username valid password error message is: Incorrect format
+14:11:02.710 [main] INFO  HM.Clothes.HomePageTest - Valid username invalid password error message is: Wrong email or password, please try again.

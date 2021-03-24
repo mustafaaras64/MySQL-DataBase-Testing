@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-02T15:40:33Z" name="Suite" finished-at="2021-03-02T15:40:53Z" duration-ms="20232">
+    <groups>
+    </groups>
+    <test started-at="2021-03-02T15:40:33Z" name="Test" finished-at="2021-03-02T15:40:53Z" duration-ms="20232">
+      <class name="HM.Clothes.StudentDiscount">
+        <test-method signature="studentDiscountButtonTest()[pri:0, instance:HM.Clothes.StudentDiscount@4b5189ac]" started-at="2021-03-02T09:40:49Z" name="studentDiscountButtonTest" finished-at="2021-03-02T09:40:51Z" duration-ms="2156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentDiscountButtonTest -->
+      </class> <!-- HM.Clothes.StudentDiscount -->
+      <class name="HM.Clothes.CustomerServices">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:HM.Clothes.CustomerServices@4f704591]" started-at="2021-03-02T09:40:33Z" name="initialize" finished-at="2021-03-02T09:40:37Z" duration-ms="3787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:HM.Clothes.HomePage@43599640]" started-at="2021-03-02T09:40:37Z" name="initialize" finished-at="2021-03-02T09:40:40Z" duration-ms="3356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:HM.Clothes.LoginPageTest@1e4d3ce5]" started-at="2021-03-02T09:40:40Z" name="initialize" finished-at="2021-03-02T09:40:44Z" duration-ms="3370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:HM.Clothes.StudentDiscount@4b5189ac]" started-at="2021-03-02T09:40:44Z" name="initialize" finished-at="2021-03-02T09:40:48Z" duration-ms="3937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="customerServicesButtonTest()[pri:0, instance:HM.Clothes.CustomerServices@4f704591]" started-at="2021-03-02T09:40:48Z" name="customerServicesButtonTest" finished-at="2021-03-02T09:40:48Z" duration-ms="707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerServicesButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HM.Clothes.CustomerServices@4f704591]" started-at="2021-03-02T09:40:51Z" name="tearDown" finished-at="2021-03-02T09:40:52Z" duration-ms="737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HM.Clothes.HomePage@43599640]" started-at="2021-03-02T09:40:52Z" name="tearDown" finished-at="2021-03-02T09:40:53Z" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HM.Clothes.StudentDiscount@4b5189ac]" started-at="2021-03-02T09:40:53Z" name="tearDown" finished-at="2021-03-02T09:40:53Z" duration-ms="726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- HM.Clothes.CustomerServices -->
+      <class name="HM.Clothes.LoginPageTest">
+        <test-method signature="getLogin()[pri:0, instance:HM.Clothes.LoginPageTest@1e4d3ce5]" started-at="2021-03-02T09:40:48Z" name="getLogin" finished-at="2021-03-02T09:40:49Z" duration-ms="711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLogin -->
+      </class> <!-- HM.Clothes.LoginPageTest -->
+      <class name="HM.Clothes.HomePage">
+        <test-method signature="costumerServiceButtonTest()[pri:0, instance:HM.Clothes.HomePage@43599640]" started-at="2021-03-02T09:40:48Z" name="costumerServiceButtonTest" finished-at="2021-03-02T09:40:48Z" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- costumerServiceButtonTest -->
+      </class> <!-- HM.Clothes.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
